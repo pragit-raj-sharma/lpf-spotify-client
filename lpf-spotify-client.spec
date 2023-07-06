@@ -79,6 +79,9 @@ desktop-file-validate %{buildroot}%{_datadir}/applications/%{name}.desktop
 
 
 %changelog
+* Tue Jun 20 2023 Sérgio Basto <sergio@serjux.com> - 1.2.13.661-1
+- Update to 1.2.13.661.ga588f749
+
 * Mon May 29 2023 Sérgio Basto <sergio@serjux.com> - 1.2.9.743-1
 - Update to 1.2.9.743.g85d9593d
 
